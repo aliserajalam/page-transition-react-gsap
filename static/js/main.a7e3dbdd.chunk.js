@@ -1,2 +1,0 @@
-(this["webpackJsonppage-transition-react-gsap"]=this["webpackJsonppage-transition-react-gsap"]||[]).push([[0],{11:function(e,t,n){e.exports=n(23)},16:function(e,t,n){},17:function(e,t,n){},23:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),c=n(8),i=n.n(c);n(16),n(17);var o=function(){return r.a.createElement("div",{className:"App"})},s=n(10);i.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(s.a,null,r.a.createElement(o,null))),document.getElementById("root"))}},[[11,1,2]]]);
-//# sourceMappingURL=main.a7e3dbdd.chunk.js.map
