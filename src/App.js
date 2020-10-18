@@ -10,8 +10,8 @@ import About from './pages/about'
 
 
 const routes = [
-  { path: "/", name: "Home", Component: Home },
-  { path: "/about", name: "About", Component: About },
+  { path: "/page-transition-react-gsap/", name: "Home", Component: Home },
+  { path: "/page-transition-react-gsap/about", name: "About", Component: About },
 ]
 
 function App() {
