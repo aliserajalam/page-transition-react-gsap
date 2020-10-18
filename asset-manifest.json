@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/page-transition-react-gsap/static/css/main.bc08ed31.chunk.css",
-    "main.js": "/page-transition-react-gsap/static/js/main.1c2600f6.chunk.js",
-    "main.js.map": "/page-transition-react-gsap/static/js/main.1c2600f6.chunk.js.map",
+    "main.js": "/page-transition-react-gsap/static/js/main.8e652d72.chunk.js",
+    "main.js.map": "/page-transition-react-gsap/static/js/main.8e652d72.chunk.js.map",
     "runtime-main.js": "/page-transition-react-gsap/static/js/runtime-main.12f67d7e.js",
     "runtime-main.js.map": "/page-transition-react-gsap/static/js/runtime-main.12f67d7e.js.map",
     "static/js/2.1c7a416a.chunk.js": "/page-transition-react-gsap/static/js/2.1c7a416a.chunk.js",
     "static/js/2.1c7a416a.chunk.js.map": "/page-transition-react-gsap/static/js/2.1c7a416a.chunk.js.map",
     "index.html": "/page-transition-react-gsap/index.html",
-    "precache-manifest.941e2dbef10c3104183bfe16dcebf546.js": "/page-transition-react-gsap/precache-manifest.941e2dbef10c3104183bfe16dcebf546.js",
+    "precache-manifest.6401d69698d681d8d7073d90afb1dc48.js": "/page-transition-react-gsap/precache-manifest.6401d69698d681d8d7073d90afb1dc48.js",
     "service-worker.js": "/page-transition-react-gsap/service-worker.js",
     "static/css/main.bc08ed31.chunk.css.map": "/page-transition-react-gsap/static/css/main.bc08ed31.chunk.css.map",
     "static/js/2.1c7a416a.chunk.js.LICENSE.txt": "/page-transition-react-gsap/static/js/2.1c7a416a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12f67d7e.js",
     "static/js/2.1c7a416a.chunk.js",
     "static/css/main.bc08ed31.chunk.css",
-    "static/js/main.1c2600f6.chunk.js"
+    "static/js/main.8e652d72.chunk.js"
   ]
 }
