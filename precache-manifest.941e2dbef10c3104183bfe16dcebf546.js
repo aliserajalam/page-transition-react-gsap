@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9000b0981ef2abc67bbc22ff9c5aa20",
+    "revision": "db87b1970984af5a965a68a945dfcf5e",
     "url": "/page-transition-react-gsap/index.html"
   },
   {
-    "revision": "d890da75e79a9cfda384",
+    "revision": "ba73a47c2233659dc236",
     "url": "/page-transition-react-gsap/static/css/main.bc08ed31.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/page-transition-react-gsap/static/js/2.1c7a416a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d890da75e79a9cfda384",
-    "url": "/page-transition-react-gsap/static/js/main.c6cc00ba.chunk.js"
+    "revision": "ba73a47c2233659dc236",
+    "url": "/page-transition-react-gsap/static/js/main.1c2600f6.chunk.js"
   },
   {
     "revision": "c24d327701d3754684a6",
